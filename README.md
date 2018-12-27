@@ -15,4 +15,6 @@ but please also submit an erratum through the link at
 
 If you'd like to post math equations, you can use a website like 
 [codecogs](https://www.codecogs.com/latex/eqneditor.php) and copy/paste an
-image into the comment textbox.
+image into the comment textbox. You can also use a 
+[chrome extension](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
+that renders MathJax in Github issue pages (YMMV).
